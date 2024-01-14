@@ -24,6 +24,9 @@ We can see an example of this function plotted on the graph below. Note that the
 points are to help see the periodicity and do not represent the intermediate values between the
 x-markers.
 
+![image](https://github.com/kart2004/Quantum-Computing/assets/111494403/f9034367-615d-48a7-a9bd-ba986d8fedb3)
+
+
 SHOR’S SOLUTION
 QISKIT IMPLEMENTATION
 In this example we will solve the period finding problem and we provide the circuits for : ![image](https://github.com/kart2004/Quantum-Computing/assets/111494403/04da4767-f788-4b39-af7a-067559bd62e0)
@@ -52,7 +55,8 @@ This code effectively implements Shor's algorithm to factor N using a specific v
 require multiple attempts to find a factor, and it will eventually terminate when a factor is found
 or when the loop reaches a certain number of attempts.
 
-IBM GATES REPRESENTATION:
+IBM GATES REPRESENTATION: ![image](https://github.com/kart2004/Quantum-Computing/assets/111494403/94a2f9fd-364f-4db7-a768-916506f59e2f)
+
 
 CONCLUSION:
 In conclusion, quantum gates are pivotal in the development of quantum computing, enabling the
